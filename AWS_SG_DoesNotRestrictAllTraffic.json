@@ -6,7 +6,7 @@
             "Properties": {
                 "GroupDescription": "Allow http to client host",
                 "VpcId": "myVPC",
-                "GroupName" : "default",
+                "GroupName" : "default1",
                 "SecurityGroupIngress": [{
                     "IpProtocol": "-1",
                     "CidrIp": "0.0.0.0/0",
