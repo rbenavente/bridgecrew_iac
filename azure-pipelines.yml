@@ -17,4 +17,4 @@ steps:
 - script: pip install bridgecrew
   displayName: 'Install the Bridgecrew CLI'
 - script: bridgecrew -d . --bc-api-key cadc031b-f0a7-5fe1-9085-e0801fc52131 --repo-id rbenavente/bridgecrew_iac --branch master
-  displayName: 'Scan with Bridgecrew''
+  displayName: 'Scan with Bridgecrew'
