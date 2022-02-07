@@ -9,6 +9,8 @@
           "LoggingConfiguration": {
             "DestinationBucketName": {
               "Ref": "s3manishcicd"
+                
+                
             }
           },
           "VersioningConfiguration": {
